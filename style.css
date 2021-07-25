@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+#headname {
+    font-weight: bold;
+    text-align: center;
+    font-size: 5rem;
+    margin: 180px 0 40px 0;
+}
+#search{
+    width: 32rem;
+    padding: 0.92rem;
+    border-radius: 3rem;
+    border-color: lightgray;
+    box-shadow: 0.08rem 0.08rem 0.2rem lightgrey;
+}
+input{
+    font-family: "fontello";
+    font-size: 1rem;
+}
+.blue{
+    color: rgb(66 133 244);
+}
+.green{
+    color:#34a853;
+}
+.red{
+    color:rgb(234 67 53);
+}
+.yellow{
+    color:#fbbc05;
+}
